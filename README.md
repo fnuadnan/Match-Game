@@ -5,7 +5,7 @@
 - Included Function
 
 ## Introduction	
-Your task is to code out the game's functionality by completing the functions we've outlined below. We've left you plenty of comments as well as a suite of tests that will help you get the job done. Keep in mind that the functions build upon each other so **you should complete each function in order!**
+The task is to code out the game's functionality by completing the functions outlined below. I 've left plenty of comments as well as a suite of tests that will help  get the job done. Keep in mind that the functions build upon each other so **I  complete each function in order!**
 
 ## Deliverable
 ### 1. **`createNewCard()`**
